@@ -1,0 +1,16 @@
+./svmap.py -v -t0.0 69.50.64.0/20 >>scan/Antigua.txt
+./svmap.py -v -t0.0 69.57.224.0/19 >>scan/Antigua.txt
+./svmap.py -v -t0.0 76.76.160.0/19 >>scan/Antigua.txt
+./svmap.py -v -t0.0 162.210.156.0/22 >>scan/Antigua.txt
+./svmap.py -v -t0.0 162.222.84.0/22 >>scan/Antigua.txt
+./svmap.py -v -t0.0 162.252.188.0/22 >>scan/Antigua.txt
+./svmap.py -v -t0.0 192.64.120.0/22 >>scan/Antigua.txt
+./svmap.py -v -t0.0 199.16.56.0/22 >>scan/Antigua.txt
+./svmap.py -v -t0.0 199.48.204.0/22 >>scan/Antigua.txt
+./svmap.py -v -t0.0 199.189.112.0/22 >>scan/Antigua.txt
+./svmap.py -v -t0.0 204.16.112.0/22 >>scan/Antigua.txt
+./svmap.py -v -t0.0 205.217.224.0/19 >>scan/Antigua.txt
+./svmap.py -v -t0.0 206.214.0.0/19 >>scan/Antigua.txt
+./svmap.py -v -t0.0 208.83.80.0/21 >>scan/Antigua.txt
+./svmap.py -v -t0.0 209.59.64.0/18 >>scan/Antigua.txt
+./svmap.py -v -t0.0 216.48.96.0/22 >>scan/Antigua.txt

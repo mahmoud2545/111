@@ -1,0 +1,14 @@
+./svmap.py -v -t0.0 41.79.44.0/22 >>scan/Burundi.txt
+./svmap.py -v -t0.0 41.79.224.0/22 >>scan/Burundi.txt
+./svmap.py -v -t0.0 154.70.196.0/22 >>scan/Burundi.txt
+./svmap.py -v -t0.0 154.73.40.0/22 >>scan/Burundi.txt
+./svmap.py -v -t0.0 154.73.104.0/22 >>scan/Burundi.txt
+./svmap.py -v -t0.0 154.117.192.0/18 >>scan/Burundi.txt
+./svmap.py -v -t0.0 154.119.0.0/19 >>scan/Burundi.txt
+./svmap.py -v -t0.0 196.2.8.0/21 >>scan/Burundi.txt
+./svmap.py -v -t0.0 196.13.223.0/24 >>scan/Burundi.txt
+./svmap.py -v -t0.0 196.49.3.0/24 >>scan/Burundi.txt
+./svmap.py -v -t0.0 196.223.3.0/24 >>scan/Burundi.txt
+./svmap.py -v -t0.0 196.223.36.0/24 >>scan/Burundi.txt
+./svmap.py -v -t0.0 197.157.192.0/22 >>scan/Burundi.txt
+./svmap.py -v -t0.0 197.231.248.0/22 >>scan/Burundi.txt

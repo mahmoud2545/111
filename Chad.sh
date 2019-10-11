@@ -1,0 +1,20 @@
+mkdir scan/
+./svmap.py -v -t0.0  41.74.32.0/20 >> scan/Chad.txt
+./svmap.py -v -t0.0  78.138.2.96/29 >> scan/Chad.txt
+./svmap.py -v -t0.0  80.15.243.0/27 >> scan/Chad.txt
+./svmap.py -v -t0.0  80.15.243.32/28 >> scan/Chad.txt
+./svmap.py -v -t0.0  80.15.244.0/25 >> scan/Chad.txt
+./svmap.py -v -t0.0  80.78.17.48/29 >> scan/Chad.txt
+./svmap.py -v -t0.0  82.206.129.128/25 >> scan/Chad.txt
+./svmap.py -v -t0.0  83.229.119.72/29 >> scan/Chad.txt
+./svmap.py -v -t0.0  86.62.7.192/30 >> scan/Chad.txt
+./svmap.py -v -t0.0  86.62.14.100/30 >> scan/Chad.txt
+./svmap.py -v -t0.0  86.62.14.224/30 >> scan/Chad.txt
+./svmap.py -v -t0.0  92.39.124.128/25 >> scan/Chad.txt
+./svmap.py -v -t0.0  193.219.212.0/27 >> scan/Chad.txt
+./svmap.py -v -t0.0  193.220.18.0/25 >> scan/Chad.txt
+./svmap.py -v -t0.0  193.220.125.0/25 >> scan/Chad.txt
+./svmap.py -v -t0.0  193.251.147.0/24 >> scan/Chad.txt
+./svmap.py -v -t0.0  213.187.131.184/29 >> scan/Chad.txt
+./svmap.py -v -t0.0  217.113.76.64/27 >> scan/Chad.txt
+./svmap.py -v -t0.0  197.149.128.0/22 >> scan/Chad.txt

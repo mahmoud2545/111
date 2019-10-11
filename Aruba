@@ -1,0 +1,5 @@
+./svmap.py -v -t0.0 138.255.252.0/22 >>scan/Aruba.txt
+./svmap.py -v -t0.0 181.41.0.0/18 >>scan/Aruba.txt
+./svmap.py -v -t0.0 186.189.128.0/18 >>scan/Aruba.txt
+./svmap.py -v -t0.0 190.104.96.0/20 >>scan/Aruba.txt
+./svmap.py -v -t0.0 201.229.0.0/17 >>scan/Aruba.txt
